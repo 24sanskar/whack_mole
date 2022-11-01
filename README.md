@@ -1,1 +1,1 @@
-# whack_mole
+# html-css-js-project-boilerplate
