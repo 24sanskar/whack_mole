@@ -93,7 +93,7 @@ h1{
     transform: translate(-20%, -20%) rotate(-45deg);
 }
 
-@media only screen and (max-width:600px) and (orientation: portrait){
+@media only screen and (max-width:600px) and (orientation: landscape){
     *{
     margin: 0;
     padding: 0;
