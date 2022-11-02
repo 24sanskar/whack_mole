@@ -116,8 +116,6 @@ h1{
     padding: 0rem 0.5rem;
 }
 #game{
-    display: flex;
-    flex-wrap: wrap;
     height: 40vh;
     width: 80vw;
     margin: 1rem auto; 
